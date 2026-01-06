@@ -1,6 +1,8 @@
 📊 Project Overview
 This Power BI dashboard provides a comprehensive analysis of a supermarket's performance over a two-year period (2019-2020). The goal of this project is to track key performance indicators (KPIs), understand consumer behavior across different segments, and identify year-over-year (YoY) growth trends in sales and profit.
 
+!Preview(Dashboard.png)
+
 🚀 Key Insights
 Based on the data visualized:
 
